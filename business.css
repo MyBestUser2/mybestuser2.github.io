@@ -6,6 +6,7 @@
     padding: -220px;
     margin: 0px;
     overflow: hidden;
+    font-family: impact;
 }
 
 .navbar1 a{
@@ -77,4 +78,86 @@
 
 .navbar3 li{
     float: right;
+}
+
+.para1{
+    position: relative;
+        top: -144px;
+        left: 270px;
+    font-size: 3em;
+    font-family: arial;
+}
+
+.para2{
+    position: relative;
+        top: -136px;
+        left: 397px;
+    font-size: 2em;
+    font-family: arial;
+}
+
+.para3{
+    position: relative;
+        top: -144px;
+        left: 548px;
+    font-size: 2em;
+    font-family: arial;
+}
+.para4{
+    position: relative;
+        top: -90px;
+        left: 786px;
+    font-size: 2em;
+    font-family: arial;
+}
+
+.para5{
+    position: relative;
+        top: 700px;
+        left: 786px;
+    font-size: 2em;
+    font-family: arial;
+}
+
+
+.wireframe {
+    position: relative;
+    top: -500px;
+    left: 552px;
+}
+
+
+.design{
+    position: relative;
+    top: 800px;
+    left: -150px;
+}
+.arrow1{
+    position: relative;
+    top: -190px;
+    left: -440px;
+}
+
+.arrow2{
+    position: relative;
+    top: -1040px;
+    left: -470px;
+}
+
+
+button{
+    text-align: relative;
+    font-size: 2em;
+    position: relative;
+    top: -100px;
+    left: -1340px;
+    font-family: impact;
+}
+
+.heading{
+    position: relative;
+        top: -119px;
+        left: 877px;
+    font-size:4em;
+    font-family:monospace;
 }

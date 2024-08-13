@@ -13,10 +13,10 @@ function colorBlack(){
     document.querySelectorAll('.para5')[0].style.color="white";
     document.querySelectorAll('.para6')[0].style.color="white";
     document.querySelectorAll('.para7')[0].style.color="white";
-
-
-
-
+    document.querySelectorAll('.para8')[0].style.color="white";
+    document.querySelectorAll('.para9')[0].style.color="black";
+    document.querySelectorAll('.navbar li')[0].style.color="white";
+    document.querySelectorAll('.navbar ul')[0].style.color="black";
 }
 
 colorButton.addEventListener("click", colorBlack)
@@ -33,6 +33,10 @@ function colorWhite(){
     document.querySelectorAll('.para5')[0].style.color="black";
     document.querySelectorAll('.para6')[0].style.color="black";
     document.querySelectorAll('.para7')[0].style.color="black";
+    document.querySelectorAll('.para8')[0].style.color="black";
+    document.querySelectorAll('.para9')[0].style.color="black";
+    document.querySelectorAll('.navbar li')[0].style.color="white";
+    document.querySelectorAll('.navbar ul')[0].style.color="white";
 }
 
 colorButton.addEventListener("click", colorWhite)
