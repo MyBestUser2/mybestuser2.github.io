@@ -1,0 +1,80 @@
+.navbar1 ul{ 
+    text-align: center;
+    list-style-type: none;
+    background-color:rgb(163, 163, 163);
+    font-size: 2em;
+    padding: -220px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar1 a{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    padding: 50px;
+    display: block
+
+}
+
+.navbar1 a:hover{
+    background-color:red 
+}
+
+.navbar1 li{
+    float: right;
+}
+
+.navbar2 ul{ 
+    list-style-type: none;
+    background-color:rgb(163, 163, 163);
+    font-size: 25px;
+    padding: 40px;
+    margin: 0px;
+    text-align: right;
+    overflow: hidden;
+}
+
+.navbar2 a{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    padding: 50px;
+    display: block
+
+}
+
+.navbar2 a:hover{
+    background-color:red 
+}
+
+.navbar2 li{
+    float: right;
+}
+
+.navbar3 ul{ 
+    list-style-type: none;
+    background-color:rgb(163, 163, 163);
+    font-size: 2em;
+    padding: 40px;
+    margin: 0px;
+    text-align: right;
+    overflow: hidden;
+}
+
+.navbar3 a{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    padding: 50px;
+    display: block
+
+}
+
+.navbar3 a:hover{
+    background-color:red 
+}
+
+.navbar3 li{
+    float: right;
+}
