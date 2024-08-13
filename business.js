@@ -9,14 +9,6 @@ function colorBlack(){
     document.querySelectorAll('.para1')[0].style.color="white";
     document.querySelectorAll('.para2')[0].style.color="white";
     document.querySelectorAll('.para3')[0].style.color="white";
-    document.querySelectorAll('.para4')[0].style.color="white";
-    document.querySelectorAll('.para5')[0].style.color="white";
-    document.querySelectorAll('.para6')[0].style.color="white";
-    document.querySelectorAll('.para7')[0].style.color="white";
-
-
-
-
 }
 
 colorButton.addEventListener("click", colorBlack)
@@ -29,10 +21,6 @@ function colorWhite(){
     document.querySelectorAll('.para1')[0].style.color="black";
     document.querySelectorAll('.para2')[0].style.color="black";
     document.querySelectorAll('.para3')[0].style.color="black";
-    document.querySelectorAll('.para4')[0].style.color="black";
-    document.querySelectorAll('.para5')[0].style.color="black";
-    document.querySelectorAll('.para6')[0].style.color="black";
-    document.querySelectorAll('.para7')[0].style.color="black";
 }
 
 colorButton.addEventListener("click", colorWhite)
