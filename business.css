@@ -91,7 +91,7 @@
 .para2{
     position: relative;
         top: -136px;
-        left: 397px;
+        left: 410px;
     font-size: 2em;
     font-family: arial;
 }
@@ -99,14 +99,14 @@
 .para3{
     position: relative;
         top: -144px;
-        left: 548px;
+        left: 558px;
     font-size: 2em;
     font-family: arial;
 }
 .para4{
     position: relative;
         top: -90px;
-        left: 786px;
+        left: 785px;
     font-size: 2em;
     font-family: arial;
 }
@@ -157,7 +157,7 @@ button{
 .heading{
     position: relative;
         top: -119px;
-        left: 877px;
+        left: 887px;
     font-size:4em;
     font-family:monospace;
 }
